@@ -1,0 +1,10 @@
+hello
+crashme
+123456
+admin
+password
+{"user":"test","pass":"test"}
+<xml><tag>test</tag></xml>
+../../etc/passwd
+%0A%0D
+!@#$%^&*()
